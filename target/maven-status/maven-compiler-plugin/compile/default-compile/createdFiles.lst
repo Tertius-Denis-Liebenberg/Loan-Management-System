@@ -1,0 +1,5 @@
+com\mycompany\fa3_q2\Loan.class
+com\mycompany\fa3_q2\LoanConstants.class
+com\mycompany\fa3_q2\BusinessLoan.class
+com\mycompany\fa3_q2\PersonalLoan.class
+com\mycompany\fa3_q2\CreateLoans.class
